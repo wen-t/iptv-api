@@ -74,8 +74,17 @@ CETV5
 明珠台
 TVBS亚洲
 香港卫视
-J2
+TVB Plus
 Viutv
+viutv6 96
+viutv 99
+美亞電影台(HK)
+亞洲新聞台
+Animax(HK)
+i-Fun 動漫台
+TVBS-新聞台
+無線新聞台
+黃金翡翠台
 
 🏀体育频道,#genre#
 CCTV-5
