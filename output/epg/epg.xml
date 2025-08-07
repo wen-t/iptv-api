@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250807062042 +0800">
+<tv date="20250807063625 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -10907,6 +10907,12 @@
 	</programme>
 	<programme channel="黑莓动画" start="20250807112200 +0800" stop="20250807125300 +0800">
 		<title lang="zh">太空夺旗</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250807125300 +0800" stop="20250807135900 +0800">
+		<title lang="zh">狐妖小红娘b7月红2</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250807135900 +0800" stop="20250807152800 +0800">
+		<title lang="zh">海绵宝宝：水兵陆战队</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
