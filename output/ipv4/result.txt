@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-17 18:43:51,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+2026-02-18 06:29:26,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -31,6 +31,7 @@
 纬来育乐,rtmp://60.248.77.83/sat/tv701
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来育乐,rtmp://116.93.98.236/sat/tv701.flv
+东森电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykwxMoUHpMM_iP4852Z3fkyk8zLr_cHdtRNfGHcdy6CBHw-Gsla_fUeSZd5w4Wac0uJflUo3jPx-syZub8WoZXN8RiuExRGYFHshahLkcavYsTA0xVX1vv5-7vKJhs-n7zwpfIB1QcisXHnKxS0kd5Hze8xeJra-LdG_RCTOfdFcvx03TGauO_eJLMAVKIyz9Q.m3u8?u=1756878715
 星卫娱乐,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 
 🏀体育频道,#genre#
@@ -40,8 +41,8 @@
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
-少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
 少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
+少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
 少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
@@ -50,6 +51,7 @@
 少儿动画,rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
+卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 卡酷动画,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
