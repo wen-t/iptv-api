@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2026-02-25 18:48:59,http://74.91.26.218:82/live/cctv4hd.m3u8
+2026-02-26 06:31:18,http://74.91.26.218:82/live/cctv4hd.m3u8
 
 📺央视频道,#genre#
 CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
-CCTV-5+,http://74.91.26.218:82/live/cctv5p.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
@@ -17,8 +16,8 @@ CCTV-5+,http://74.91.26.218:82/live/cctv5p.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
-广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
@@ -62,7 +61,6 @@ CCTV-5+,http://74.91.26.218:82/live/cctv5p.m3u8
 新动漫,rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
-金鹰卡通,http://221.13.235.245:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
 炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8
 炫动卡通,rtsp://118.212.169.207:554/PLTV/88888888/224/3221226968/10000100000000060000000000568712_0.smil
