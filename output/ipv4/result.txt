@@ -1,10 +1,10 @@
 🕘️更新时间,#genre#
-2026-08-23 18:20:58,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+2026-08-24 06:18:55,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
@@ -14,8 +14,8 @@ CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bc
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=555198f31caa33506ac6abb70d788959&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=3e7340acf8869ac1c7dad1bb836dcd35&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -35,10 +35,10 @@ CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bc
 
 🏀体育频道,#genre#
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
-少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
 少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
